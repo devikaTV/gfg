@@ -1,0 +1,16 @@
+section{
+    width: 700px;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+
+section input, section button{
+    font-size: 1.5rem;
+}
+
+
+section ol{
+    font-size: 1.5rem;
+}
