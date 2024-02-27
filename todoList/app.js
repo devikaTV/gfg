@@ -261,6 +261,7 @@ window.onload=function(){
     
     todoBtn.addEventListener('click', function () {
       const inpText = todoInp.value;
+      todoInp.value=""
       addTodo(inpText,editItem)
     });
     
